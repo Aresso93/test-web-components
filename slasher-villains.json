@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Freddy",
+        "surname": "Krueger",
+        "talks": true,
+        "main movies": 7 
+    },
+    {
+        "name": "Jason",
+        "surname": "Voorhees",
+        "talks": false,
+        "main movies": 11
+    },
+    {
+        "name": "Michael",
+        "surname": "Meyers",
+        "talks": false,
+        "main movies": 13
+    }
+]
