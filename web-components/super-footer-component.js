@@ -9,7 +9,7 @@ class SuperFooterComponent extends HTMLElement{
     connectedCallback(){
 
         this.shadowRoot.innerHTML = '<p>Niente diritti, pussa via</p>'
-
+        this.render();
     }
 
     render(){
@@ -22,3 +22,4 @@ class SuperFooterComponent extends HTMLElement{
 }
 
 customElements.define('super-footer', SuperFooterComponent);
+

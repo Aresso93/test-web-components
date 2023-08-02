@@ -13,7 +13,6 @@ constructor(){
         fetch('./slasher-villains.json')
         .then(resp => resp.json())
         .then(res => this.render(res));
-
     }
 
 

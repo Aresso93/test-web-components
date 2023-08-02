@@ -7,7 +7,7 @@ class SlasherCardComponent extends HTMLElement{
     }
 
     connectedCallback(){
-        this.render();
+       this.render();
     }
 
 
